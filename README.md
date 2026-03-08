@@ -1,4 +1,3 @@
-````markdown
 # Code Explainer
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -45,7 +44,7 @@ The application is cleanly separated into a decoupled client-server architecture
    git clone [https://github.com/yourusername/code-explainer.git](https://github.com/yourusername/code-explainer.git)
    cd code-explainer
    ```
-````
+
 
 2. **Create and activate a virtual environment:**
 
